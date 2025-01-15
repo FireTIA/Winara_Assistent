@@ -1,0 +1,12 @@
+{
+    "API_KEY": "--ваш API ключ",
+    "LAT": "00.00000" ,
+    "LON": "00.000000",
+    "UNITS": "metric",
+    "LANG": "ru",
+    "DEBUG_MODE": true,
+    "COUNTRY": "--Страна",
+    "TOWN": "--Город",
+    "SYSTEM_WEATHER": "OpenWeather"
+  }
+  
