@@ -1,0 +1,11 @@
+{
+    "name_voice_assistant": "Вин",
+    "debug": "True",
+    "file_path_dir_assistent": "H:\\Winara_Assistent",
+    "play_sounds": "True",
+    "internet_search_provider": "Yandex",
+    "loging": "True",
+    "Use_Model_LLM_connect_OpenAI": "False",
+    "command_file_path": "config\\commands.json",
+    "word_volume_file_path": "config\\volume_in_word.json"
+}
