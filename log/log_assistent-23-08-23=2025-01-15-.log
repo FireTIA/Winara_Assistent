@@ -1,0 +1,13 @@
+#Тут типо лог ^_^
+23-08-24=2025-01-15 - Версия: 0.3 BETA
+23-08-24=2025-01-15 - Информация: час(ов) - минут(ы/а) - секунд(ы/a) = год-месяц-день
+23-08-24=2025-01-15 - Используется модель: H:\Win_Assistent\Winara_Assistent\Module\Speech_Recognition\Vosk_API\Models\vosk-model-small-ru-0.22
+23-08-24=2025-01-15 - Текущие настройки: 
+ 	 debug=True 
+ 	 file_path_dir_assistent=H:\Win_Assistent\Winara_Assistent 
+ 	 internet_search_provider=Yandex 
+ 	 loging=True 
+ ===============================================
+23-08-24=2025-01-15 - Говорите что-то
+23-08-24=2025-01-15 - [System] | Открытие 'config\commands.json' 
+23-08-24=2025-01-15 - [System] | Открытие 'config\volume_in_word.json' 
